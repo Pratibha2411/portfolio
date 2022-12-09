@@ -1,0 +1,19 @@
+{
+  "name": "front-end_static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratibha2411/portfolio.git"
+  },
+  "author": "tanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratibha2411/portfolio/issues"
+  },
+  "homepage": "https://github.com/Pratibha2411/portfolio#readme"
+}
